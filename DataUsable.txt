@@ -1,6 +1,6 @@
-Red:5:-3
-Yellow:-5:3
-Red:4:-4
-Yellow:-4:6
-Red:6:-4
-Yellow:-5:5
+red:4:-2
+yellow:-5:3
+red:2:-3
+yellow:-4:6
+red:5:-5
+yellow:-5:5
