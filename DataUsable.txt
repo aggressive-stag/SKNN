@@ -1,6 +1,8 @@
-red:4:-2
+red:19:19
 yellow:-5:3
-red:2:-3
+red:18:15
 yellow:-4:6
-red:5:-5
+red:18:17
 yellow:-5:5
+green:19:-18
+green:18:-19

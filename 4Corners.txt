@@ -1,0 +1,8 @@
+red:19:19
+yellow:-19:19
+red:18:19
+yellow:-19:18
+blue:-19:-19
+blue:-18:-18
+green:19:-18
+green:18:-19
